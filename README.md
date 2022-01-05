@@ -1,4 +1,4 @@
-BATALLA NAVAL
+<h1>BATALLA NAVAL</h1>
 
 Para el desarrollo de la aplicación web, se utilizaron lenguajes de programación como JavaScript y PHP, y CSS y para el dar estética al juego. Se utilizaron a su vez Frameworks tales como Bootstrap 5 y Howler.js.
 Consideraciones generales del juego:
