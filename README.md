@@ -26,3 +26,7 @@ Cada embarcación inicia con sus colores predeterminados y se agregó un botón 
 •	Antes de posicionar cualquier embarcación, deberá cerciorarse que las celdas que ocupará no se encuentren ocupadas por otra embarcación.
 
 Si el usuario desea poner una embarcación encima de otra, o trata de ingresarla en un lugar donde no cabe se le indica al usuario con una alerta seguida del mensaje “(tipo embarcación) no entra”.
+
+<hr>
+
+El juego cuenta con una base de datos la cual se puede encontrar en "./assets/resources", para poder importarla, esta base de datos es utilizada para poder registrar un "historial" de partidas ganadas, donde se registra la fecha y el tiempo de juego.
